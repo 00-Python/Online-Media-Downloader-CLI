@@ -3,7 +3,7 @@ Download different Media from various different online sites. Eg. Youtube, Insta
 
 **Install**
 1. Open a terminal or cmd
-2. Run 'git clone https://github.com/00-Python/Online-Media-Downloader-CLI-.git'
+2. Run 'git clone https://github.com/00-Python/Online-Media-Downloader-CLI.git'
 3. cd into file and run
 4. In Linux: pip3 install -r requirements.txt or in Windows: python -m pip -r requirements.txt
 
