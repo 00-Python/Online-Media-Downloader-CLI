@@ -1,6 +1,8 @@
 # Online-Media-Downloader-CLI
 Download different Media from various different online sites. Eg. Youtube, Instagram, Facebook and more to come.
 
+**Currently only Supports Youtube and Instagram!**
+
 **Install**
 1. Open a terminal or cmd
 2. Run 'git clone https://github.com/00-Python/Online-Media-Downloader-CLI.git'
